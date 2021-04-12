@@ -27,7 +27,7 @@ theme = "hello-friend-ng"
 
 [languages]
   [languages.en]
-    title = "Can You Be A Freelancer"
+    title = "Can You Be A Freelancer?"
     subtitle = "An Event By HackClub RIT"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -42,6 +42,10 @@ theme = "hello-friend-ng"
     identifier = "submissions"
     name       = "Submissions"
     url        = "submissions"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about"
   [[params.social]]
     name = "github"
     url = "https://github.com/HackClubRIT/can-you-be-a-freelancer"
