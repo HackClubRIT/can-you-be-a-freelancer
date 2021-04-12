@@ -41,7 +41,7 @@ theme = "hello-friend-ng"
   [[menu.main]]
     identifier = "submissions"
     name       = "Submissions"
-    url        = "/submissions"
+    url        = "submissions"
   [[params.social]]
     name = "github"
     url = "https://github.com/HackClubRIT/can-you-be-a-freelancer"
