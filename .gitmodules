@@ -1,0 +1,12 @@
+[submodule "ardra31"]
+	path = ardra31
+	url = https://github.com/ardra31/HackClub.git
+[submodule "f1yOP"]
+	path = f1yOP
+	url = https://github.com/f1yOP/hack-club
+[submodule "Anandu-kichu"]
+	path = Anandu-kichu
+	url = https://github.com/Anandu-kichu/hack-club
+[submodule "abhinavk001"]
+	path = abhinavk001
+	url = https://github.com/abhinavk001/hackclub-website
