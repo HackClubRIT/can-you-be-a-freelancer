@@ -2,3 +2,18 @@
 title: "Ardra Vinod"
 draft: false
 ---
+
+#### Computer Science and Engineering, 2019 - 2023
+Rajiv Gandhi Institute of Technology, Kottayam
+
+
+[<img style="float: left;"  src = "https://img.shields.io/badge/github-545454?&style=for-the-badge&logo=github&logoColor=white">][github_account] 
+[<img style="float: left;" src="https://img.shields.io/badge/view_site-FD5D8E?&style=for-the-badge&logoColor=white" />][github_pages]
+[<img style="float: left;" src="https://img.shields.io/badge/source-545454?&style=for-the-badge&logo=github&logoColor=white" />][github_repo]
+[<img style="float: left;" src="https://img.shields.io/badge/linkedin-FD5D8E?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/ardra-vinod-09a1181b7/
+[github_account]: https://github.com/ardra31
+[github_repo]: https://github.com/ardra31/HackClub
+[github_pages]: https://ardra31.github.io/HackClub/

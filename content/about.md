@@ -3,7 +3,9 @@ title: "About"
 draft: false
 ---
 
-In this event students were tasked with building a landing page for HackClubRIT using HTML, CSS, and vanilla JS within 24 hours on April 7 2021.
+*"Can You be a Freelancer?"* was the first event hosted by Hack CLub RIT. The participants were tasked with building a landing page for HackClubRIT using HTML, CSS, and vanilla JS within 24 hours on April 7 2021. 
+
+The event was exclusively for RITians.
 
 ### About HackClub
 
