@@ -35,7 +35,7 @@ theme = "hello-friend-ng"
 
     [languages.en.params.logo]
       logoText = "hackclub-rit"
-      logoHomeLink = "https://hackclubrit.github.io/can-you-be-a-freelancer/"
+      logoHomeLink = "/can-you-be-a-freelancer/"
 
   # And you can even create generic menu
   [[menu.main]]
