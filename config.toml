@@ -1,5 +1,7 @@
 languageCode = "en-us"
-# baseURL = "https://hackclubrit.github.io/can-you-be-a-freelancer/"
+baseURL = "https://hackclubrit.github.io/can-you-be-a-freelancer/"
+canonifyurls = true 
+
 theme = "hello-friend-ng"
 [params]
   dateform        = "Jan 2, 2006"
@@ -35,7 +37,7 @@ theme = "hello-friend-ng"
 
     [languages.en.params.logo]
       logoText = "hackclub-rit"
-      logoHomeLink = "/can-you-be-a-freelancer/"
+      logoHomeLink = ""
 
   # And you can even create generic menu
   [[menu.main]]
