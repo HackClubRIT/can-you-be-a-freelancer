@@ -1,6 +1,6 @@
 ---
 title: "About"
-draft: true
+draft: false
 ---
 
 In this event students were tasked with building a landing page for HackClubRIT using HTML, CSS, and vanilla JS within 24 hours on April 7 2021.
