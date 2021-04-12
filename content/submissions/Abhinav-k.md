@@ -16,4 +16,4 @@ Rajiv Gandhi Institute of Technology, Kottayam
 [linkedin]: https://www.linkedin.com/in/abhinavk001/
 [github_account]: https://github.com/abhinavk001
 [github_repo]: https://github.com/abhinavk001/hackclub-website
-[github_pages]: https://github.com/abhinavk001/hackclub-website
+[github_pages]: https://abhinavk001.github.io/hackclub-website/
