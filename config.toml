@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseURL = "https://hackclubrit.github.io/can-you-be-a-freelancer/"
+# baseURL = "https://hackclubrit.github.io/can-you-be-a-freelancer/"
 theme = "hello-friend-ng"
 [params]
   dateform        = "Jan 2, 2006"
@@ -52,3 +52,7 @@ theme = "hello-friend-ng"
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/company/hackclubrit/about/"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
