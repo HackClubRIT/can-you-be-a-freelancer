@@ -10,3 +10,6 @@
 [submodule "abhinavk001"]
 	path = abhinavk001
 	url = https://github.com/abhinavk001/hackclub-website
+[submodule "website/themes/hello-friend-ng"]
+	path = website/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
