@@ -1,5 +1,5 @@
 languageCode = "en-us"
-#baseURL = "http://localhost:1313/can-you-be-a-freelancer"
+baseURL = "https://hackclubrit.github.io/can-you-be-a-freelancer/"
 canonifyurls = true 
 theme = "hello-friend-ng"
 [params]
